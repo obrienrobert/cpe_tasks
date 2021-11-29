@@ -25,11 +25,10 @@ Fedora-messaging is the main messaging service used for Fedora Infrastructure ht
 Write a basic script which consumes all messages from the queue with the topic `org.release-monitoring.prod.anitya.project.version.update.v2` and print them to the console
 
 ## 3. Code Maintenance
-You are given an application to take over from another deveolper and become the main maintainer. What steps would you take to familiarise yourself with the code?
+You are given an application to take over from another developer and become the main maintainer. What steps would you take to familiarise yourself with the code?
 
 ## 4. Deployment
 When writing an application what considerations do you give as to how the app is deployed and does this effect how you write your code or documentation?
-
 
 ## 5. Troubleshooting
 You are unable to login to a remote server with ssh, you get 'Permission denied'. What things would you ask the server admin to check for you and what information would you provide to them?
